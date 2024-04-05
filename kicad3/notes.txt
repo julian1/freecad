@@ -1,0 +1,57 @@
+
+draft versus sketch.
+  how 
+
+little tabs - that insert into guide holes would kind of be nice.
+could have two of them. and then just snip - so can do top and bottom cans.
+
+disadvantage of harkin - is that the shield sits a higher off the board. 
+unless a receess was made - around the clamp.
+
+
+- if we have lines - that are not extruded - eg. a draft - then 
+
+
+
+  - Draft to sketch: converts Draft objects to Sketcher Sketches and vice versa.
+
+  - can we view a draft and sketch at the same time.
+
+
+
+
+
+
+-------
+both alumninum or steel can do 0.8mm.  good.
+
+- we want to shrink the outline . about half the width. on each edge.
+
+adc  can.   the ref is about 6mm .  which needs plastic enclosure.  so 10mm. should be fine.
+
+
+Merge points - into single polygon - 
+  - issue is that we have four separate lines. while we want only single vertices between two lines.
+
+  Now that we have a sketch, we can fix the precision issue with the end points.
+  Still in either the Part Design or Sketcher workbench, select Sketch005 then
+  open the Part Design/Sketch menu and select Validate sketch.
+
+  Under Missing coincidences, set the tolerance to 0.01 and click on the "Find"
+  button. A dialog will report 4 missing coincidences found. Click OK to close,
+  then click on "Fix" button in the sidebar.
+
+    https://forum.freecad.org/viewtopic.php?t=17444
+
+adjust the dimensions -
+  adc-can    eg. half radius - distributed over two ends.
+  shrink vertical 57.15mm -0.8.
+  shrink horiz    109.85 - 0.8.
+
+
+we need to have the thing centred.
+
+
+Symmetry,
+   Select one corner, then the opposite corner, then the origin, then apply the
+  symmetry constraint. This is one point/point/point constraint as ...
