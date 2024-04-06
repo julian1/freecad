@@ -45,8 +45,8 @@ Merge points - into single polygon -
 
 adjust the dimensions -
   adc-can    eg. half radius - distributed over two ends.
-  shrink vertical 57.15mm -0.8.
-  shrink horiz    109.85 - 0.8.
+  shrink vertical 57.15mm - 2.4 =  54.75 
+  shrink horiz    109.85 - 2.4  = 107.45 // 0.8.
 
 
 we need to have the thing centred.
