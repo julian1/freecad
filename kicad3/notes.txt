@@ -55,3 +55,11 @@ we need to have the thing centred.
 Symmetry,
    Select one corner, then the opposite corner, then the origin, then apply the
   symmetry constraint. This is one point/point/point constraint as ...
+
+
+spreadsheet and easyalias
+  https://www.youtube.com/watch?v=cJfbINgyz-k
+
+
+
+
