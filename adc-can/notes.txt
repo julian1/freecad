@@ -16,13 +16,12 @@ I designed my first electronics enclosure for 3D printing // FreeCAD + KiCAD com
 
 ******
 Ok. the reason it screws up when extending/gapping - is because new faces get added.
-
   and so the face references become wrong.
 
 
 -----------
 draft versus sketch.
-  how 
+  how  - possible to view both on the same 2d plane?
 
 little tabs - that insert into guide holes would kind of be nice.
 could have two of them. and then just snip - so can do top and bottom cans.
@@ -39,8 +38,12 @@ unless a receess was made - around the clamp.
 
   - can we view a draft and sketch at the same time.
 
+-------
 
-
+A "Body" is used for single contiguous elements, usually created with the Part
+or PartDesign Workbenches. A "Body" has a "Shape". A "Part" is used to group a
+single "Body", or several of them to form an "Assembly". A "Part" has a
+collection of "Shapes", but doesn't have a "Shape" of its own.
 
 
 
