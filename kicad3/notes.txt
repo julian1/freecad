@@ -1,4 +1,26 @@
 
+
+REFS,
+
+FreeCAD Electronic Enclosure Using Simple Parametric Design Techniques
+  https://www.youtube.com/watch?v=cJfbINgyz-k
+    for spreadsheet use, and easyalias
+
+I designed my first electronics enclosure for 3D printing // FreeCAD + KiCAD complete walkthrough 
+  https://www.youtube.com/watch?v=ov3PpaP9uHI
+    - refers to the previous video also . for parametric/spreadsheet design.
+    - refers to importance of the tree -> model, part, sketch etc.
+
+    - uses kicad stepup also. 
+
+
+******
+Ok. the reason it screws up when extending/gapping - is because new faces get added.
+
+  and so the face references become wrong.
+
+
+-----------
 draft versus sketch.
   how 
 
@@ -55,11 +77,5 @@ we need to have the thing centred.
 Symmetry,
    Select one corner, then the opposite corner, then the origin, then apply the
   symmetry constraint. This is one point/point/point constraint as ...
-
-
-spreadsheet and easyalias
-  https://www.youtube.com/watch?v=cJfbINgyz-k
-
-
 
 
