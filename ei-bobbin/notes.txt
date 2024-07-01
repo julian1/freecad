@@ -1,0 +1,56 @@
+
+REMMEBER
+
+  - having earthed copper - is a path for body surface capacitance - as well as coil capacitance.
+
+  - for the 1of3. having two flanges each side - means can put copper/tape between them
+      even if takes more space.
+      it doesn't look like can squeeze.
+
+  - we could reduce space for the flanges - by making a complete unit.
+
+
+- there is actually a small lip - that  reduces body contact.
+- having some small recesses - would be nice for alignment - but would interfere with a copper sleave between them.
+
+
+  - so do the single body  - as a test.
+  - and 3x smaller bobbins.  with 1mm. separation.
+
+
+
+nylon.  natural grey.   no surface finish.
+
+
+
+
+jlcpcb.
+  submitted.  watch time 7.44pm. 4.44pm shenzhen.
+  go through checkout. and select shipping etc.  but instead order goes to review before paying.
+  initially state
+  state 4-6 hours during business
+  8.05pm approved. good.
+
+  ------
+
+  was able to use 'add item' to 'combine' the third item in a new cart. to the already successfully reviewed other items in cart.
+  instantly went into 'reviewing'
+
+
+1.2 wall.   so would need 2.93 / 2.
+
+1x bobbin/ thick wall
+  ((6.5 * 2) + 1.5 + 1.5) * 1
+  16
+
+3x bobbins. thin wall
+  1.2 wall. 1.46 height.  on both sides.
+  ((1.46 * 2) + 1.2 + 1.2) * 3
+  15.96
+
+2x bobbins. thin wall
+  ((2.8 * 2) + 1.2 + 1.2) * 2
+  16
+
+
+

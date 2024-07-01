@@ -4,14 +4,18 @@ REFS,
 
 FreeCAD Electronic Enclosure Using Simple Parametric Design Techniques
   https://www.youtube.com/watch?v=cJfbINgyz-k
-    for spreadsheet use, and easyalias
+    for spreadsheet use, and easyalias/Easyalias
 
-I designed my first electronics enclosure for 3D printing // FreeCAD + KiCAD complete walkthrough 
+      see around 13min.
+      note. uses legnth for horiz. and width for end.
+
+
+I designed my first electronics enclosure for 3D printing // FreeCAD + KiCAD complete walkthrough
   https://www.youtube.com/watch?v=ov3PpaP9uHI
     - refers to the previous video also . for parametric/spreadsheet design.
     - refers to importance of the tree -> model, part, sketch etc.
 
-    - uses kicad stepup also. 
+    - uses kicad stepup also.
 
 
 ******
@@ -26,11 +30,11 @@ draft versus sketch.
 little tabs - that insert into guide holes would kind of be nice.
 could have two of them. and then just snip - so can do top and bottom cans.
 
-disadvantage of harkin - is that the shield sits a higher off the board. 
+disadvantage of harkin - is that the shield sits a higher off the board.
 unless a receess was made - around the clamp.
 
 
-- if we have lines - that are not extruded - eg. a draft - then 
+- if we have lines - that are not extruded - eg. a draft - then
 
 
 
@@ -55,7 +59,7 @@ both alumninum or steel can do 0.8mm.  good.
 adc  can.   the ref is about 6mm .  which needs plastic enclosure.  so 10mm. should be fine.
 
 
-Merge points - into single polygon - 
+Merge points - into single polygon -
   - issue is that we have four separate lines. while we want only single vertices between two lines.
 
   Now that we have a sketch, we can fix the precision issue with the end points.
@@ -70,7 +74,7 @@ Merge points - into single polygon -
 
 adjust the dimensions -
   adc-can    eg. half radius - distributed over two ends.
-  shrink vertical 57.15mm - 2.4 =  54.75 
+  shrink vertical 57.15mm - 2.4 =  54.75
   shrink horiz    109.85 - 2.4  = 107.45 // 0.8.
 
 
