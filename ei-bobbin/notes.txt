@@ -1,5 +1,29 @@
 
+
+
+
 REMMEBER
+
+  - there are 4 separate supplies - analog, iso, analog 5V.  ER/digital.
+
+  - think it may make sense to wind all 4 coils - secondaries - for analog, and iso. - on the same bobbin.
+      so there will be some capacitive coupling. but does it matter.
+
+
+  - We can wrap tape 360 degrees.  fully around the bobbin.  but remember 1kV. needed between ER,
+
+  - We could add the 5V digital rail - as the immediate next  bobbin to the primary - for better HV isolation.
+      Or just copper on the inside.
+
+  -
+
+  - one do make an entirely metal version -  eg. stainless.
+      - and with a slot to avoid a shorted turn.
+      - no good for HV.
+      - issue is the digital supply. would need to be separate.   but it could be plastic.
+
+      - could even be a kind of box.
+
 
   - having earthed copper - is a path for body surface capacitance - as well as coil capacitance.
 
@@ -24,7 +48,7 @@ nylon.  natural grey.   no surface finish.
 
 
 
-jlcpcb.
+jlcpcb.  tue. jul 2 2024.
   submitted.  watch time 7.44pm. 4.44pm shenzhen.
   go through checkout. and select shipping etc.  but instead order goes to review before paying.
   initially state
@@ -36,8 +60,14 @@ jlcpcb.
   was able to use 'add item' to 'combine' the third item in a new cart. to the already successfully reviewed other items in cart.
   instantly went into 'reviewing'
 
+  ----
+  paid 6.46pm.   shenzen time. eg. 45mins after cutoff.
 
-1.2 wall.   so would need 2.93 / 2.
+  hmmm says 'in production'  so perhaps they started anyway.
+
+
+
+
 
 1x bobbin/ thick wall
   ((6.5 * 2) + 1.5 + 1.5) * 1
